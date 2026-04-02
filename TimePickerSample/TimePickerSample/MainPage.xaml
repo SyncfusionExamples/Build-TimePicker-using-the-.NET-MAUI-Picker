@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:time="clr-namespace:TimePickerSample.Control"
+             x:Class="TimePickerSample.MainPage">
+    <Border Stroke="#6750A4"
+            Grid.Row="1"
+            HeightRequest="300"
+            WidthRequest="300"
+            StrokeThickness="1">
+        <Border.StrokeShape>
+            <RoundRectangle CornerRadius="20"/>
+        </Border.StrokeShape>
+        <time:CustomTimePicker/>
+    </Border>
+
+</ContentPage>
