@@ -2,7 +2,7 @@
 
 This repository contains a sample that demonstrates how to build timepicker control using the [SfPicker](https://help.syncfusion.com/maui/picker/getting-started) control.
 
-Please refer the KB through this [link](https://support.syncfusion.com/agent/kb/23199).
+Please refer the KB through this [link](https://support.syncfusion.com/kb/article/23199).
 
 ## Syncfusion controls
 
